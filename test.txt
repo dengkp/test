@@ -1,7 +1,1 @@
 123
-234
-567
-789
-this is a new stash
-this is in a branch
-this is in a master
