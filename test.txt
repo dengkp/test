@@ -4,3 +4,4 @@
 789
 this is a new stash
 this is in a branch
+this is in a master
